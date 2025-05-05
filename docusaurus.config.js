@@ -2,9 +2,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'ChipChip\'s Documentation',
+    title: 'ChipChip\'s Heroes Docs',
     tagline: 'The place to find info about ChipChip\'s things',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/favicon.png',
     url: 'https://ChipChipsHeroes.github.io',
     baseUrl: '/Docs/',
     organizationName: 'ChipChipsHeroes',
@@ -42,7 +42,7 @@ const config = {
         ({
             image: 'img/social-card.jpg',
             navbar: {
-                title: 'ChipChip\'s Documentation',
+                title: 'ChipChip\'s Heroes Docs',
                 logo: {
                     alt: 'Logo',
                     src: 'img/logo.png',
@@ -50,9 +50,9 @@ const config = {
                 items: [
                     {
                         type: 'docSidebar',
-                        sidebarId: 'addonpacks',
+                        sidebarId: 'sidebar',
                         position: 'left',
-                        label: 'ChipChip\'s heroes Development',
+                        label: 'Heroes Documentation',
                     },
                     {
                         type: "docsVersionDropdown",
