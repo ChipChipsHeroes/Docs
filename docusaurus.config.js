@@ -9,7 +9,7 @@ const config = {
     baseUrl: '/Docs/',
     organizationName: 'ChipChipsHeroes',
     projectName: 'Docs',
-    deploymentBranch: 'deployment',
+    deploymentBranch: 'docs',
     onBrokenLinks: 'throw',
     onBrokenMarkdownLinks: 'warn',
     i18n: {
