@@ -59,7 +59,7 @@ const config = {
                         position: "right",
                     },
                     {
-                        href: 'https://github.com/ThreeTAG/Documentation',
+                        href: 'https://github.com/ChipChipsHeroes/Docs',
                         label: 'GitHub',
                         position: 'right',
                     },
@@ -73,19 +73,19 @@ const config = {
                         items: [
                             {
                                 label: 'Discord',
-                                href: 'https://discord.com/invite/GATzmppJms',
+                                href: 'https://discord.gg/qys44Cp5B2',
                             },
                             {
                                 label: 'CurseForge',
-                                href: 'https://www.curseforge.com/members/lucraft/projects',
+                                href: 'https://www.curseforge.com/members/chipchipse/projects',
                             },
                             {
                                 label: 'Modrinth',
-                                href: 'https://modrinth.com/organization/threetag',
+                                href: 'https://modrinth.com/organization/chipchips',
                             },
                             {
                                 label: 'GitHub',
-                                href: 'https://github.com/ThreeTAG',
+                                href: 'https://github.com/ChipChipsHeroes',
                             },
                         ],
                     },
