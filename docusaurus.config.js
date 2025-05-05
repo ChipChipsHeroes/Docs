@@ -2,8 +2,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: 'ThreeTAG Documentation',
-    tagline: 'Dinosaurs are cool',
+    title: 'ChipChip\'s Documentation',
+    tagline: 'The place to find info about ChipChip\'s things',
     favicon: 'img/favicon.ico',
     url: 'https://ChipChipsHeroes.github.io',
     baseUrl: '/Docs/',
