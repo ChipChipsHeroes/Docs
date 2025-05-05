@@ -42,7 +42,7 @@ const config = {
         ({
             image: 'img/social-card.jpg',
             navbar: {
-                title: 'ThreeTAG Documentation',
+                title: 'ChipChip\'s Documentation',
                 logo: {
                     alt: 'Logo',
                     src: 'img/logo.png',
@@ -52,7 +52,7 @@ const config = {
                         type: 'docSidebar',
                         sidebarId: 'addonpacks',
                         position: 'left',
-                        label: 'Addon Pack Development',
+                        label: 'ChipChip\'s heroes Development',
                     },
                     {
                         type: "docsVersionDropdown",
