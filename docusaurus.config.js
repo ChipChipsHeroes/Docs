@@ -6,7 +6,7 @@ const config = {
     tagline: 'Dinosaurs are cool',
     favicon: 'img/favicon.ico',
     url: 'https://ChipChipsHeroes.github.io',
-    baseUrl: '/',
+    baseUrl: '/Docs/',
     organizationName: 'ChipChipsHeroes',
     projectName: 'Docs',
     deploymentBranch: 'deployment',
