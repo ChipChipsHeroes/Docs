@@ -45,7 +45,7 @@ const config = {
                 title: 'ChipChip\'s Heroes Docs',
                 logo: {
                     alt: 'Logo',
-                    src: 'img/logo.png',
+                    src: 'img/favicon.png',
                 },
                 items: [
                     {
@@ -90,7 +90,7 @@ const config = {
                         ],
                     },
                 ],
-                copyright: `Copyright © ${new Date().getFullYear()} ThreeTAG, Inc. Built with Docusaurus.`,
+                copyright: `Built with Docusaurus.`,
             },
             prism: {
                 theme: prismThemes.github,
